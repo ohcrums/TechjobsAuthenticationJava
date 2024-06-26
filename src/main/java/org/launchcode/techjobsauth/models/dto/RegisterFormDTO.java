@@ -1,6 +1,6 @@
 package org.launchcode.techjobsauth.models.dto;
 
-public class RegisterFormDTO {
+public class RegisterFormDTO extends LoginFormDTO {
 
     private String verifyPassword;
 
